@@ -7,3 +7,5 @@
   "module": "./dist/esm/index.js",
 "files": [
     "dist"
+  ],
+  "scripts": {
