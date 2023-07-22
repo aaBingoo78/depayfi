@@ -16,3 +16,5 @@
     "test:playwright": "npx playwright test",
     "test:cypress:debug": "yarn cypress run --headed --no-exit",
     "test:jest": "npx jest --no-cache --forceExit",
+    "test": "yarn test:jest && yarn test:cypress && test:playwright"
+  },
