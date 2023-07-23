@@ -18,3 +18,5 @@
     "test:jest": "npx jest --no-cache --forceExit",
     "test": "yarn test:jest && yarn test:cypress && test:playwright"
   },
+  "repository": "git@github.com:DePayFi/web3-mock.git",
+  "keywords": [
