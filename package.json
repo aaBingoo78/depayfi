@@ -44,3 +44,4 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
+    "@babel/plugin-transform-runtime": "^7.18.6",
