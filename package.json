@@ -61,3 +61,5 @@
     "babel-loader": "^8.2.2",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
+    "cypress": "^12.9.0",
+    "eslint": "^7.15.0",
