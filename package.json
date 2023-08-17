@@ -64,3 +64,5 @@
     "cypress": "^12.9.0",
     "eslint": "^7.15.0",
     "eslint-plugin-import": "^2.22.1",
+    "eslint-webpack-plugin": "^2.5.4",
+    "ethers": "^5.7.1",
