@@ -70,3 +70,4 @@
     "node-fetch": "^2.6.9",
     "regenerator-runtime": "^0.13.9",
     "rollup": "^2.34.2",
+    "rollup-plugin-jscc": "^2.0.0",
