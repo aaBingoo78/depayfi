@@ -71,3 +71,4 @@
     "regenerator-runtime": "^0.13.9",
     "rollup": "^2.34.2",
     "rollup-plugin-jscc": "^2.0.0",
+    "rollup-plugin-polyfill-node": "^0.8.0",
