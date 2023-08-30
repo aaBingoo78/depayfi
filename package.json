@@ -73,3 +73,4 @@
     "rollup-plugin-jscc": "^2.0.0",
     "rollup-plugin-polyfill-node": "^0.8.0",
     "util": "^0.12.5",
+    "viem": "^1.0.7",
