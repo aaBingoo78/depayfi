@@ -74,3 +74,4 @@
     "rollup-plugin-polyfill-node": "^0.8.0",
     "util": "^0.12.5",
     "viem": "^1.0.7",
+    "wagmi": "^1.2.0",
