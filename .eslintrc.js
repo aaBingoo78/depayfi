@@ -12,3 +12,5 @@ module.exports = {
   ],
   plugins: [],
   root: true,
+  env: {
+    node: true
