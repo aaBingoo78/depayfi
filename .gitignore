@@ -19,3 +19,6 @@
 
 # IDE - Webstorm
 .idea/
+
+# Various
+npm-debug.log*
