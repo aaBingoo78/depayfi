@@ -6,3 +6,7 @@ index.html
 tsconfig.json
 webpack.config.js
 postcss.config.js
+
+
+# tests
+test
