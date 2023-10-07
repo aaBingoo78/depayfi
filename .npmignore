@@ -11,3 +11,6 @@ postcss.config.js
 # tests
 test
 jest.config.js
+coverage
+
+#  lint
