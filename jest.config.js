@@ -4,3 +4,4 @@ module.exports = {
   setupFiles: ['./tests/setup.js'],
   automock: false,
   modulePaths: ['<rootDir>'],
+  transformIgnorePatterns: [
