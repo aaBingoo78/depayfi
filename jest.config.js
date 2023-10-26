@@ -5,3 +5,5 @@ module.exports = {
   automock: false,
   modulePaths: ['<rootDir>'],
   transformIgnorePatterns: [
+    "/node_modules/rpc-websockets/dist/lib/server"
+  ]
