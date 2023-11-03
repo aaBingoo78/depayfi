@@ -6,3 +6,7 @@
   "main": "./dist/umd/index.evm.js",
   "module": "./dist/esm/index.evm.js",
   "files": [
+    "dist"
+  ],
+  "repository": "git@github.com:DePayFi/web3-mock.git",
+  "keywords": [
