@@ -25,3 +25,4 @@
   "homepage": "https://depay.com",
   "private": false,
   "dependencies": {
+    "@depay/web3-blockchains": "^9.1.4",
