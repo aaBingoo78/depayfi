@@ -26,3 +26,6 @@
   "private": false,
   "dependencies": {
     "@depay/web3-blockchains": "^9.1.4",
+    "ethers": "^5.7.1"
+  },
+  "peerDependencies": {
