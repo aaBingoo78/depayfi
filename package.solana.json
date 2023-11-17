@@ -1,2 +1,4 @@
 {
   "name": "@depay/web3-mock-solana",
+  "moduleName": "Web3Mock",
+  "version": "14.17.0",
