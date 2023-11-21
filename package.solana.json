@@ -6,3 +6,5 @@
   "main": "./dist/umd/index.solana.js",
   "module": "./dist/esm/index.solana.js",
   "files": [
+    "dist"
+  ],
