@@ -18,3 +18,5 @@
     "crypto"
   ],
   "author": "depay.com",
+  "license": "MIT",
+  "bugs": {
